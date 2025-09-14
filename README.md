@@ -19,7 +19,7 @@ The following features are a work in progress:
 - FTMR of x3 SPI peripherals
 - I2C peripheral
 - CAN BUS peripheral
-- Flash Storage
+- Flash Storage Data Read/Write
 
 ## Files
 
