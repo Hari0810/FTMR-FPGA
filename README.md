@@ -4,7 +4,7 @@
 
 This project seeks to be a proof-of-concept for the following:
 
-- Prove that Functional Triple Modular Redundancy can improve the reliability of data collection in a space-like environment with moderate disturbances
+- Prove that Functional Triple Modular Redundancy can improve the reliability of data collection in a near-space-like environment with moderate disturbances
 - Implement typical microcontroller digital protocols in hardware
 - Offer an insight into affordable means to produce space-grade hardware
 
