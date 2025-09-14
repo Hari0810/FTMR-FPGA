@@ -21,7 +21,7 @@ The following features are a work in progress:
 ## Files
 
 The repo contains the following folders:
-- Vanilla: (in progress) contains normal hardware implementations of SPI, I2C, CAN BUS
+- Vanilla: (in progress) contains normal hardware implementations of SPI, UART
 - FTMR: (not started) contains FTMR implementation for SPI port
 
 ## Toolchain
