@@ -42,5 +42,7 @@ Navigate to the desired folder in Command Prompt and type the following:
 ``apio verify`` - checks for errors
 
 ``apio sim`` - simulates waveforms of signals in GTKWave
-``apio build`` - compiles project (note that for the first time, you may have a prompt to set the target board - this must be set to icefun)
+
+``apio build`` - compiles project (note that for the first time, a prompt will ask you to set the target board - this must be set to icefun)
+
 ``apio upload`` - uploads project
