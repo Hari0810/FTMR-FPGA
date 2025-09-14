@@ -15,10 +15,10 @@ This is a project that builds off the skills, knowledge and experience gained fr
 The following features are a work in progress:
 
 - SPI peripheral
+- UART peripheral
 - FTMR of x3 SPI peripherals
 - I2C peripheral
 - CAN BUS peripheral
-- UART peripheral
 - Flash Storage
 
 ## Files
