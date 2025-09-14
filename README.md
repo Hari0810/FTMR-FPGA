@@ -29,7 +29,7 @@ The repo contains the following folders:
 
 ## Toolchain
 
-This project uses the icefun iCE40-HX8K FPGA development board due to its affordability, ease of use, and the ability to program using open-source software.
+This project uses the iceFUN iCE40-HX8K FPGA development board due to its affordability, ease of use, and the ability to program using open-source software.
 
 The Apio toolkit is used to verify, simulate, build and program the FPGA.
 
