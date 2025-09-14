@@ -2,13 +2,13 @@
 
 ## Overview
 
-This project seeks to be a proof-of-concept for the following:
+This project seeks to:
 
-- Prove that Functional Triple Modular Redundancy can improve the reliability of data collection in a near-space-like environment with moderate disturbances
-- Implement typical microcontroller digital protocols in hardware
+- Demonstrate Functional Triple Modular Redundancy working in an FPGA device, as described in [an ESA-backed research paper](http://microelectronics.esa.int/techno/fpga_003_01-0-2.pdf)
+- Reaffirm that FTMR improve the reliability of data collection in a near-space-like environment with moderate disturbances
+- Extend the initial scope of the report by applying FTMR to digital communication protocols, namely SPI
+- Prove that any potential gains from this method are independent of the hardware and firmware used
 - Offer an insight into affordable means to produce space-grade hardware
-
-This is a project that builds off the skills, knowledge and experience gained from the EIE 2nd Year course at Imperial, the Karman Space Programme rocketry initiative, and a CubeSat-related research placement at Imperial College London.
 
 ## Features
 
@@ -17,9 +17,6 @@ The following features are a work in progress:
 - SPI peripheral
 - UART peripheral
 - FTMR of x3 SPI peripherals
-- I2C peripheral
-- CAN BUS peripheral
-- Flash Storage Data Read/Write
 
 ## Files
 
